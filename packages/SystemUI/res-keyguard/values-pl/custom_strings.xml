@@ -20,7 +20,7 @@
 
     <!-- CustomText clock -->
     <string name="custom_text_clock_top_text_default">Jest</string>
-    <string name="high_noon_first_row">Wysoki</string>
+    <string name="high_noon_first_row">Samo</string>
     <string name="high_noon_second_row">Południe</string>
     <string name="twelve_am">Dwunasta</string>
 
